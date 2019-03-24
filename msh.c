@@ -299,11 +299,9 @@ int main()
 			}
 		}
 	}
-
+	  
 	waitpid(child_pid, &status, 0);
-
     free( working_root );
-
   }
   return 0;
 }
