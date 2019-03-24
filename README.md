@@ -14,4 +14,4 @@ Bash-like shell created for Operating Systems class (CSE 3320) by Dr. Trevor Bak
 * How a shell works in UNIX systems.
 * How to handle multiple processes at a time.
 * Signal handling in C.
-* More efficient data structure decisions.
+* More efficient data structure management.
