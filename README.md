@@ -1,7 +1,7 @@
 # Mav Shell
 
 ## Overview
-Bash-like shell created for Operating Systems class (CSE 3320) by Dr. Trevor Bakker.
+Bash-like shell with basic functionality, such as navigating through the file system, handling signals, and executing previous commands.
 
 ## Functionality
 * Handles any system commands in the /bin, /usr/bin, /usr/local/bin/, and current working directory.
